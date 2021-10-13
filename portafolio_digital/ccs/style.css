@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+* {margin: 0; padding: 0; }
+
+body {background-image: url("../img/fondo.jpg"); background-repeat: no-repeat; background-size: cover; background-attachment: fixed;}
+
+.container {background-color: rgba(255,255,255,0.91); width:1000px; height: 150; margin-left: auto; margin-right: auto;}
+
+.header {background-color:rgba(0,0,0,0.75); color: white; text-align: center; font-family: 'Lobster', cursive; padding: 30px}
+
+.footer  {background-color:rgba(0,0,0,0.75); color: white; text-align: center; font-family: 'Lobster', cursive; padding: 30px;}
+
+.color1 {background-color:firebrick; margin: auto;padding: 30px; border-radius: 20px;}
+
+h3 {font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; font-size: 70px; color:#5704B6; text-align: center; margin:auto ;padding: 30px;} 
+
+.color2 {background:rgba(206,87,24,1.00); margin: auto; padding: 30px; border-radius: 20px;}
+
+.color3 {background-color: rgba(184,170,14,1.00); margin: auto; padding: 30px; border-radius: 20px;}
+
+.color4 {background-color:rgba(62,133,4,1.00); margin: auto; padding: 30px; border-radius: 20px;}
+
+.color5 {background-color:rgba(14,130,110,1.00); margin: auto; padding: 30px; border-radius: 20px;}
+
+.color6 {background-color:rgba(68,86,160,1.00); margin: auto; padding: 30px; border-radius: 20px;}
+
+.color7 {background-color:rgba(105,7,118,1.00); margin: auto; padding: 30px;}
+
+#contacto {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; font-size: 20px; word-spacing: -2.5px; color:rgba(134,5,60,1.00); text-align: center; margin:-5px; padding: -5px; }
+	
+.color8 {background:linear-gradient(90deg,orange,pink); margin: auto; padding: 30px; border-radius: 20px;}
+
+.color9 {background:linear-gradient(90deg,lightblue,pink); margin: auto; padding: 30px; border-radius: 20px;}
